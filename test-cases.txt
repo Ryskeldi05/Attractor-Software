@@ -1,0 +1,43 @@
+Test 1 (Form authentication)
+1. Steps to reproduce:
+a) Send wrong keys to Nickname and Password fields
+b) Tap on Login button
+
+2. Expected result:
+a) 'Your username is invalid!\n×'
+
+3. Status:
+a) Pass
+
+Test 2(Dropdown)
+
+1. Steps to reproduce:
+a) Press on Please select option field
+b) Choose second option
+
+2. Expected result:
+a) 'Option 2'
+
+3. Status:
+a) Pass
+
+Test 3 (Key-press)
+1. Steps to reproduce:
+a) Send 'K' symbol to entering field
+
+2. Expected result:
+a) 'You entered: K'
+
+3. Status:
+a) Pass
+
+Test 4 (File download)
+1. Steps to reproduce:
+a) Download txt file
+b) Read file
+
+2. Expected result:
+a) 'File Upload'
+
+3. Status:
+a) Pass
